@@ -1,0 +1,254 @@
+ul.verx {
+    margin: 0; 
+    padding: 4px; 
+   }
+   ul.verx li {
+    display: inline; 
+    margin-right: 4px; 
+   }
+   ul.niz {
+    margin: 0; 
+    padding: 4px; 
+   }
+   ul.niz li{
+    display: inline; 
+    margin-right: 5px; 
+    border: 1px solid #000; 
+    padding: 5px; 
+   }
+
+   header {
+    display: block; 
+    height: 405px; 
+    
+   }
+   #block1 {
+    width: 100% ;
+    float:left;
+    margin: 0px;
+    text-indent: 10px;
+    color: white;
+    background-color: #efefef;}
+   
+
+   #block {
+    width: 100% ;
+    float:left;
+    margin: 0px;
+    text-indent: 10px;
+    color: white;
+    background-color: #424242;}
+    
+    #p {width: 30% ;
+        float:left;
+        margin: -23px  auto;
+        text-indent: 10px;
+        color: goldenrod;
+        background-color: white;}
+
+    body {
+        margin: 0; 
+       }
+
+        ul.center {
+            margin: 0; 
+            padding: 4px; 
+           }
+           ul.center li{
+            display: inline; 
+            margin-right: 5px; 
+            border: 1px solid #000; 
+            padding: 5px; 
+           }
+
+           a { 
+            text-decoration: none;
+           } 
+
+        #t {width: 7% ;
+            float:left;
+            margin: 100px;
+            text-indent: 10px;
+            color: goldenrod;
+            background-color: white;}
+
+            #block2 {
+                width: 100% ;
+                float: left;
+                margin: 0px;
+                text-indent: 10px;
+                color: white;
+                background-color: #efefef;}
+         
+                h3, h2 { 
+                    text-indent: 1em;
+                    text-align: justify; 
+                    margin-top: 0.3em; 
+                   }
+
+                   li {
+                    list-style-type: none; 
+                   }
+                   ul {
+                    margin-left: 0; 
+                    padding-left: 0; 
+                   }
+
+                   #tt {width: 30% ;
+                    float:left;
+                    margin:  auto ;
+                    text-indent: 10px;
+                    color: goldenrod;
+                    background-color: #efefef;}
+
+                   #ttt {width: 15% ;
+                    float:center;
+                    margin:  auto;
+                    text-align:  center;
+                    color: black;
+                    background-color: #efefef;}
+
+                    #tttt {width: 20% ;
+                        float:right;
+                        margin: -200px auto;
+                        text-align:  center;
+                        color: black;
+                        background-color: #efefef;}
+
+                        #o {width: 20% ;
+                            float:left;
+                            margin: 3px 1px 1px 200px;
+                            text-indent: 10px;
+                            color: goldenrod;
+                            background-color: #efefef;}
+
+                            #block11 {
+                                width: 40% ;
+                                
+                                float:center;
+                                margin: auto;
+                                text-indent: 10px;
+                                color: black;
+                                background-color: #efefef;}
+                       
+                    #k{
+                        
+                            background: #fff;
+                            border: 1px solid #b2b2b2;
+                            height: unset;
+                            width: 50%;
+                           
+                            padding: 10px;
+                            transition: none;
+                            margin: auto;
+                            float:center;
+                        }
+                    
+
+                        #c {width: 15% ;
+                            float:center;
+                            margin: auto;
+                            text-indent: 10px;
+                            color: black;
+                            background-color: white;}
+
+                            #blockk {
+                                width: 100% ;
+                                float:left;
+                                margin: auto;
+                                text-indent: 10px;
+                                color: black;
+                                background-color: #efefef;}
+
+                                #cl {width: 0% ;
+                                    float:center;
+                                    margin: auto;
+                                    text-indent: 10px;
+                                    color: black;
+                                    background-color: #efefef;}
+                                
+                                    #f {width: 40% ;
+                                        float:right;
+                                        margin: auto;
+                                        text-indent: 10px; 
+                                        color: goldenrod;
+                                        background-color: #efefef;}
+
+                                        #te {width: 30% ;
+                                            float:left;
+                                            margin: 10px 150px auto;
+                                            text-indent: 10px;
+                                            color: black;
+                                            background-color: #efefef;}
+
+
+                                            #blockk2 {
+                                                width: 100% ;
+                                                float:left;
+                                                margin: auto;
+                                                text-indent: 10px;
+                                                color: black;
+                                                background-color: white;}
+                
+                                                #cl2 {width: 0% ;
+                                                    float:center;
+                                                    margin: auto;
+                                                    text-indent: 10px;
+                                                    color: black;
+                                                    background-color: white;}
+                                                
+                                                    #f2 {width: 20% ;
+                                                        float:left;
+                                                        margin: 10px 250px auto;
+                                                        text-indent: 10px; 
+                                                        color: goldenrod;
+                                                        background-color: white;}
+                
+                                                        #te2{width: 25% ;
+                                                            float:right;
+                                                            margin: 55px 250px auto;
+                                                            text-indent: 10px;
+                                                            color: black;
+                                                            background-color: white;}
+
+                                            
+                                                            #b {width: 15% ;
+                                                                float:left;
+                                                                margin: 40px 150px auto ;
+                                                                text-indent: 10px;
+                                                                color: black;
+                                                                background-color: white;}
+                                            
+                                                                #ff {width: 8% ;
+                                                                    float:right;
+                                                                    margin: 10px 130px auto;
+                                                                    text-indent: 10px;
+                                                                    color: goldenrod;
+                                                                    background-color: white;}
+
+
+
+                                                                    ul.nizx {
+                                                                        margin: -10px 10px; 
+                                                                        padding: 4px; 
+                                                                       }
+                                                                       ul.nizx li{
+                                                                        display: inline; 
+                                                                        margin-right: 5px; 
+                                                                        border: 1px solid #000; 
+                                                                        padding: 5px; 
+                                                                       }
+
+                                                                       #rttr {width: 50% ;
+                                                                        float:center;
+                                                                        margin:  auto;
+                                                                        text-align:  center;
+                                                                        color: black;
+                                                                        background-color: white;}
+                                                                       
+                                                                        #rttrr {width: 50% ;
+                                                                            float:center;
+                                                                            margin: auto;
+                                                                            text-align:  center;                                                                           
+                                                                            color: black;
+                                                                            background-color: white;}
